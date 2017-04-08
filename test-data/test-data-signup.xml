@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-data>
+	<data-node id="SignUpPage">
+		<data key="userName" value="dzheng" />
+		<data key="password" value="123456" />
+		<data key="fullname" value="zdj" />
+		<data key="email" value="zdj@163.com" />
+		<data key="errMsg" value="Invalid e-mail address" />
+	</data-node>
+</test-data>

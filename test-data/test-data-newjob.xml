@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-data>
+    <data-node id="NewJobPage">
+	    <data key="item" value="demo" />
+	</data-node>
+</test-data>
